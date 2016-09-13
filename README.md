@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Twitter-Local-Feed
+This application will allow people to see what's being tweeted about by location
+>>>>>>> 5818e6637cd2836b5eb5f8823021d80b0d12e216
